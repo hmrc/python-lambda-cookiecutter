@@ -1,0 +1,6 @@
+{
+    "repo_name": "",
+    "short_description": "",
+    "lambda_name": "{{cookiecutter.repo_name|replace('-', '_')|lower}}",
+    "lambda_file_name": "handler.py"
+}
